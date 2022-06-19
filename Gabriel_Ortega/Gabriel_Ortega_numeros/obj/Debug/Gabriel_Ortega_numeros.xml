@@ -1,0 +1,368 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Gabriel_Ortega_numeros
+</name>
+</assembly>
+<members>
+<member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._1_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._1_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._10_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._10_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._11_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._11_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._12_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._12_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._13_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._13_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._14_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._14_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._15_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._15_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._16_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._16_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._17_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._18_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._19_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._2_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._2_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._20_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._21_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._22_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._23_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._24_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._25_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._3_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._3_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._4_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._4_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._5_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._5_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._6_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._6_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._7_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._7_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._8_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._8_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._9_Dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources._9_Vergil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.anime">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_10">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_13">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_14">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_15">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_17">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_18">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_19">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_23">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_26">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_27">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_29">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_33">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_34">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_35">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_36">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dant_9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Dante_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.dmc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.husbegif">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.Vergil_img">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.wallpaper_dante">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.wallpaper_dantee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Gabriel_Ortega_numeros.My.Resources.Resources.white">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Gabriel_Ortega_numeros.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

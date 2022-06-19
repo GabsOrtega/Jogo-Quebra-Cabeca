@@ -1,0 +1,13 @@
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\bin\Debug\Gabriel_Ortega_numeros.exe.config
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.Form1.resources
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.Form2.resources
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.Resources.resources
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.vbproj.GenerateResource.Cache
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\bin\Debug\Gabriel_Ortega_numeros.exe
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\bin\Debug\Gabriel_Ortega_numeros.pdb
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\bin\Debug\Gabriel_Ortega_numeros.xml
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.exe
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.xml
+c:\users\ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.pdb
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.Form3.resources
+C:\Users\Ortega\documents\visual studio 2012\Projects\Gabriel_Ortega_numeros\Gabriel_Ortega_numeros\obj\Debug\Gabriel_Ortega_numeros.Form4.resources
