@@ -1,4 +1,4 @@
-# Jogo-Quebra-Cabeca
+# Jogo Quebra Cabeça
 
 <img src="/img-readme/computer.png" width=300 center>
 
